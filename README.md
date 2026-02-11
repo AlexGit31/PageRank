@@ -5,6 +5,11 @@ It covers the full pipeline: adjacency matrix construction, handling of dangling
 
 > 🏆 This project is accompanied by an **academic report graded 20/20**.
 
+👉 📘 [Report in English](https://AlexGit31.github.io/PageRank/Page_Rank_EN.pdf)
+👉 📘 [Report in French](https://AlexGit31.github.io/PageRank/Page_Rank_FR.pdf)
+
+> The reporta are being hosted using **GitHub Pages** for easy and direct access.
+
 ---
 
 ## 🚀 Project Goals
@@ -55,16 +60,6 @@ The project is structured into several key steps:
 - 🔁 **Iterations vs β**
 - 🎯 **Iterations vs ε (log scale)**
 - ⏱ **Computation time and iterations vs β**
-
----
-
-## 📄 Academic Report
-
-The full report (theoretical background, derivations, results, and interpretations) is available here:
-
-👉 📘 [Access the report via GitHub Pages](https://AlexGit31.github.io/PageRank/Report.pdf)
-
-> The report is hosted using **GitHub Pages** for easy and direct access.
 
 ---
 
